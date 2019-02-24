@@ -1,0 +1,26 @@
+# Tor state file last generated on 2019-02-22 08:41:56 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+TorVersion Tor 0.2.4.23 (git-598c61362f1b3d3e)
+LastWritten 2019-02-22 14:41:56
+TotalBuildTimes 120
+CircuitBuildTimeBin 275 1
+CircuitBuildTimeBin 325 1
+CircuitBuildTimeBin 425 1
+CircuitBuildTimeBin 475 1
+CircuitBuildTimeBin 525 3
+CircuitBuildTimeBin 575 13
+CircuitBuildTimeBin 625 18
+CircuitBuildTimeBin 675 22
+CircuitBuildTimeBin 725 11
+CircuitBuildTimeBin 775 16
+CircuitBuildTimeBin 825 13
+CircuitBuildTimeBin 875 7
+CircuitBuildTimeBin 925 4
+CircuitBuildTimeBin 975 2
+CircuitBuildTimeBin 1225 3
+CircuitBuildTimeBin 1375 1
+CircuitBuildTimeBin 1725 1
+CircuitBuildTimeBin 4225 1
+CircuitBuildTimeBin 12025 1
