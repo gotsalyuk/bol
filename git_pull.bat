@@ -1,4 +1,4 @@
 
 echo off
-cd C:\Users\posting.rieltclub\AppData\Roaming\ZennoLab\ZennoPoster\5\projects\rk\
+cd c:\Users\Administrator\AppData\Roaming\ZennoLab\ZennoPoster\5\projects\bol\
 git pull
