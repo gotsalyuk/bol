@@ -1,27 +1,29 @@
-# Tor state file last generated on 2019-02-22 08:51:21 local time
+# Tor state file last generated on 2019-03-01 05:48:12 local time
 # Other times below are in UTC
 # You *do not* need to edit this file.
 
 TorVersion Tor 0.2.4.23 (git-598c61362f1b3d3e)
-LastWritten 2019-02-22 14:51:21
-TotalBuildTimes 110
+LastWritten 2019-03-01 11:48:12
+TotalBuildTimes 100
 CircuitBuildTimeBin 375 1
-CircuitBuildTimeBin 425 2
+CircuitBuildTimeBin 425 5
 CircuitBuildTimeBin 475 1
-CircuitBuildTimeBin 525 8
-CircuitBuildTimeBin 575 9
-CircuitBuildTimeBin 625 19
-CircuitBuildTimeBin 675 19
-CircuitBuildTimeBin 725 16
-CircuitBuildTimeBin 775 10
-CircuitBuildTimeBin 825 6
-CircuitBuildTimeBin 875 6
+CircuitBuildTimeBin 525 5
+CircuitBuildTimeBin 575 7
+CircuitBuildTimeBin 625 12
+CircuitBuildTimeBin 675 13
+CircuitBuildTimeBin 725 20
+CircuitBuildTimeBin 775 11
+CircuitBuildTimeBin 825 8
+CircuitBuildTimeBin 875 4
 CircuitBuildTimeBin 925 3
-CircuitBuildTimeBin 1025 2
-CircuitBuildTimeBin 1075 2
-CircuitBuildTimeBin 1125 1
+CircuitBuildTimeBin 975 1
+CircuitBuildTimeBin 1025 1
+CircuitBuildTimeBin 1075 1
 CircuitBuildTimeBin 1325 1
+CircuitBuildTimeBin 1475 1
 CircuitBuildTimeBin 1525 1
-CircuitBuildTimeBin 1575 1
-CircuitBuildTimeBin 2375 1
-CircuitBuildTimeBin 8325 1
+CircuitBuildTimeBin 1725 1
+CircuitBuildTimeBin 2675 1
+CircuitBuildTimeBin 8475 1
+CircuitBuildTimeBin 34275 1

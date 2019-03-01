@@ -1573,6 +1573,7 @@ namespace ZennoLab.OwnCode
 				l.lo("send_mail->post_subj->");
 				
 			}
+			/*
 			else
 			{
 				he = instance.ActiveTab.GetDocumentByAddress("0").FindElementByAttribute("input:text", "class", "form-control\\ form-control-small\\ field\\ field-text\\ ng-pristine\\ ng-untouched\\ ng-valid\\ ng-valid-maxlength", "regexp", 0);
@@ -1599,6 +1600,7 @@ namespace ZennoLab.OwnCode
 					
 				}
 			}
+			*/
 			
 		}
 		public void search_coords()
